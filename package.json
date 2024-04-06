@@ -1,0 +1,22 @@
+{
+  "name": "hamburgueria",
+  "version": "1.0.0",
+  "description": "Simulaçao de pedidos de uma hamburgueria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hamburgueria",
+    "pedidos"
+  ],
+  "author": "Alessandro Reis Camilo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
